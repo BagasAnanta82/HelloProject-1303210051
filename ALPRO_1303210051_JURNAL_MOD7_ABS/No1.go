@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var n, a, b, positif, negatif int
+	var n, a, b, positif, negatif int //komentar baru
 	positif = 0
 	negatif = 0
 	fmt.Scanln(&n)
