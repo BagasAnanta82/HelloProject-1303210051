@@ -1,5 +1,5 @@
 package main
-
+//pokoknya komentar
 import "fmt"
 
 func main() {

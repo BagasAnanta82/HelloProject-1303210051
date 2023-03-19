@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var gram, kg, gr, harga_kg, harga_gr, total int
+	var gram, kg, gr, harga_kg, harga_gr, total int //inisialisasi variabel
 
 	fmt.Print("Berat parsel (gram): ")
 	fmt.Scan(&gram)
